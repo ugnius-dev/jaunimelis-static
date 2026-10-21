@@ -1,0 +1,169 @@
+
+{
+  "name": "Aistė Galminaitė",
+  "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/aiste/catalogue.webp",
+  "blocks": [
+    {
+      "type": "question",
+      "content": "Apie šokius. Jei visą likusį gyvenimą galėtum šokti tik vieną šokį – kurį pasirinktum? Kodėl?"
+    },
+    {
+      "type": "answer",
+      "content": "Agotėlė. Ir smagiai pašoksi, ir pasilinksminsi, ir padainuosi, ir dar vieną kitą sukinuką užsuksi!"
+    },
+    {
+      "type": "question",
+      "content": "Ar turi ritualą prieš koncertą? Jei taip, kokį?"
+    },
+    {
+      "type": "answer",
+      "content": "Svarbu pagauti gerą nuotaiką ir pasimėgauti, tad prieš koncertą stengiuosi iššokinėti visus nervukus pagal smagią dainą."
+    },
+    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/aiste/gallery1.webp", "alt": "Aistė" },
+    {
+      "type": "question",
+      "content": "Į ką pirmiausia atkreipi dėmesį, kai žiūri kitų kolektyvų pasirodymus?"
+    },
+    {
+      "type": "answer",
+      "content": "Nuotaiką ir šokėjų pasitempimą."
+    },
+    {
+      "type": "question",
+      "content": "Ką šokiai tau duoda, ko nerandi niekur kitur?"
+    },
+    {
+      "type": "answer",
+      "content": "Sunku net paaiškinti nešokančiam žmogui, ką tai reiškia šokti tautinius šokius ir nešti tą tradiciją tolyn. Neįmanoma net žodžiais nupasakoti to jausmo, kai užlipi ant scenos ir pasigirsta pirmieji akordai, o viskas aplink tave išnyksta. Tad taip jaučiuos ir kiekvieną repeticiją - susitinki su draugais, su kuriais NIEKADA nebūna liūdna, pamiršti visus rūpesčius, kurie yra už šokių salės, ir tiesiog mėgaujiesi procesu. Kažkas ypatingo yra tas tautinis paveldas..."
+    },
+    {
+      "type": "question",
+      "content": "Kokia daina / šokis / kūrinys tau labiausiai asocijuojasi su „Jaunimėliu“ ir kodėl?"
+    },
+    {
+      "type": "answer",
+      "content": "„Alučio puota“. Daug legendų apipinti mūsų alučio puotos pasirodymai ir tik geriausi prisiminimai."
+    },
+    {
+      "type": "question",
+      "content": "Jei galėtum grįžti į savo pirmąją šokių dieną, ką sau pasakytum?"
+    },
+    {
+      "type": "answer",
+      "content": "Esi teisingam kely, neklausyk, ką sako aplinkiniai, ir skriek toliau tuo dvigubu žingsniu! (Vieną dieną tuos trigubus pamilsi 🫣)"
+    },
+    {
+      "type": "question",
+      "content": "Kiek laiko jau esi „Jaunimietis“?"
+    },
+    {
+      "type": "answer",
+      "content": "4 metai eina"
+    },
+    {
+      "type": "question",
+      "content": "Be ko neįsivaizduoji „Jaunimėlio“ repeticijų?"
+    },
+    {
+      "type": "answer",
+      "content": "Neringos :) *\n* Šokių grupės koncertmeisterė"
+    },
+    {
+      "type": "question",
+      "content": "Kokia pirma mintis kyla išgirdus žodį „Jaunimėlis“?"
+    },
+    {
+      "type": "answer",
+      "content": "Didelis būrys gražių, šokančių ir muzikuojančių žmonių!"
+    },
+    {
+      "type": "question",
+      "content": "Kokią frazę per repeticijas girdi dažniausiai?"
+    },
+    {
+      "type": "answer",
+      "content": "LYGIUOKIT"
+    },
+    {
+      "type": "question",
+      "content": "Kokia „Jaunimėlio“ tradicija tau labiausiai patinka?"
+    },
+    {
+      "type": "answer",
+      "content": "„Meilė yra begalinė“"
+    },
+    {
+      "type": "question",
+      "content": "Koks juokingiausias dalykas yra nutikęs per repeticiją ar koncerto metu?"
+    },
+    {
+      "type": "answer",
+      "content": "Plyšusių kelnių šou (arba kaip Tadas ant Gedimino kalno kelnes siuvosi)."
+    },
+    {
+      "type": "question",
+      "content": "Ko labiausiai pasiilgsti kurį laiką nebuvęs repeticijose?"
+    },
+    {
+      "type": "answer",
+      "content": "Visų mylimų žmogučių ir jų šypsenų."
+    },
+    {
+      "type": "question",
+      "content": "Koks yra pats brangiausias „Jaunimėlio“ atradimas?"
+    },
+    {
+      "type": "answer",
+      "content": "Vienareikšmiškai, čia sutikti žmonės."
+    },
+    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/aiste/gallery2.webp", "alt": "Aistė" },
+    {
+      "type": "question",
+      "content": "Dabar apie tave. Koks faktas apie tave labiausiai nustebintų kitus?"
+    },
+    {
+      "type": "answer",
+      "content": "Metus laiko bandau numegzt megztinį..."
+    },
+    {
+      "type": "question",
+      "content": "Kaip mėgsti leisti laisvalaikį?"
+    },
+    {
+      "type": "answer",
+      "content": "Prisigalvoju visokių kūrybinių veiklų - šokti, groti, dainuoti, rankdarbiai, renginiai. Bet ir geros poilsio dienos su kava rankoje neatsisakysiu."
+    },
+    {
+      "type": "question",
+      "content": "Jei galėtum vakarieniauti su bet kuriuo žmogumi pasaulyje, ką pasirinktum? Kodėl?"
+    },
+    {
+      "type": "answer",
+      "content": "D. Grybauskaitė, nes čia yra Moteris iš didžiosios raidės. Būtų įdomu paklausyti jos minčių dėstymo."
+    },
+    {
+      "type": "question",
+      "content": "Ar turi mėgstamą posakį ar gyvenimo moto? Koks jis?"
+    },
+    {
+      "type": "answer",
+      "content": "Šiuo metu „plaukiam pasroviui ir žiūrim, kas bus“."
+    },
+    {
+      "type": "question",
+      "content": "Už ką šiandien esi labiausiai dėkinga?"
+    },
+    {
+      "type": "answer",
+      "content": "Mamai ne tik už tai, kad paauklėjo, bet ir užvedė ant muzikos ir šokio kelio nuo mažų mažų dienų."
+    },
+    {
+      "type": "question",
+      "content": "Jei tavo gyvenimas būtų filmas ar serialas, koks jis būtų?"
+    },
+    {
+      "type": "answer",
+      "content": "Serialas „Friends“."
+    }
+  ]
+}
