@@ -1,0 +1,169 @@
+{
+  "name": "Tadas Moksvytis",
+  "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/tadas-moks/cover.webp",
+  "blocks": [
+    {
+      "type": "question",
+      "content": "Apie šokius. Jei visą likusį gyvenimą galėtum šokti tik vieną šokį – kurį pasirinktum? Kodėl?"
+    },
+    {
+      "type": "answer",
+      "content": "Sunku išsirinkti vieną, tačiau tikrai rinkčiausi šokį su daugiau vaidybinių elementų, pavyzdžiui, „Alučio puota“ ar „Sėdžiu ant palangės“."
+    },
+    {
+      "type": "question",
+      "content": "Ar turi ritualą prieš koncertą? Jei taip, kokį?"
+    },
+    {
+      "type": "answer",
+      "content": "Prieš koncertą visada įsivaizduoju, jog esu senovėje, kokiame nors kaime ar pokylyje – taip geriau įsijaučiu į vaidmenį. Prieš išbėgdamas į sceną visada giliai įkvepiu, iškvepiu ir nusišypsau."
+    },
+    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/tadas-moks/gallery1.webp", "alt": "Tadas" },
+    {
+      "type": "question",
+      "content": "Į ką pirmiausia atkreipi dėmesį, kai žiūri kitų kolektyvų pasirodymus?"
+    },
+    {
+      "type": "answer",
+      "content": "Pirmiausia atkreipiu dėmesį į šokėjų nuotaiką, vaidybą bei artistiškumą."
+    },
+    {
+      "type": "question",
+      "content": "Ką šokiai tau duoda, ko nerandi niekur kitur?"
+    },
+    {
+      "type": "answer",
+      "content": "Šokiuose galiu atsipalaiduoti ir atitrūkti nuo kasdienybės, jaučiuosi dalimi bendruomenės ir pasikraunu geros energijos."
+    },
+    {
+      "type": "question",
+      "content": "Kokia daina / šokis / kūrinys tau labiausiai asocijuojasi su „Jaunimėliu“ ir kodėl?"
+    },
+    {
+      "type": "answer",
+      "content": "Su Jaunimėliu labiausiai asocijuojasi „Agotėlė“ šokis, nes tai buvo pirmas šokis, kuriame turėjau ir šokti, ir dainuoti."
+    },
+    {
+      "type": "question",
+      "content": "Jei galėtum grįžti į savo pirmąją šokių dieną, ką sau pasakytum?"
+    },
+    {
+      "type": "answer",
+      "content": "Gailėsiesi, jog nepradėjai šokti anksčiau!"
+    },
+    {
+      "type": "question",
+      "content": "Apie „Jaunimėlį“. Kiek laiko jau esi „Jaunimietis“?"
+    },
+    {
+      "type": "answer",
+      "content": "Jau pradėjau savo ketvirtus metus, šoku nuo pat pirmo kurso."
+    },
+    {
+      "type": "question",
+      "content": "Be ko neįsivaizduoji „Jaunimėlio“ repeticijų?"
+    },
+    {
+      "type": "answer",
+      "content": "Be juokelių, klaidų ir šmaikštaus atsisveikinimo."
+    },
+    {
+      "type": "question",
+      "content": "Kokia pirma mintis kyla išgirdus žodį „Jaunimėlis“?"
+    },
+    {
+      "type": "answer",
+      "content": "Bendruomenė, kurią jungia meilė šokiui, noras atstovauti savo kraštą ir vertybes."
+    },
+    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/tadas-moks/gallery2.webp", "alt": "Tadas" },
+    {
+      "type": "question",
+      "content": "Kokią frazę per repeticijas girdi dažniausiai?"
+    },
+    {
+      "type": "answer",
+      "content": "Tadai, nusišypsok, nesikuprink."
+    },
+    {
+      "type": "question",
+      "content": "Kokia „Jaunimėlio“ tradicija tau labiausiai patinka?"
+    },
+    {
+      "type": "answer",
+      "content": "Įsimintiniausia tradicija iki šiol – krikštynos. Krikštynų stovyklų metu suartėju su likusiais kolektyvo nariais labiausiai, labai smagiai ir sportiškai praleidžiame laiką."
+    },
+    {
+      "type": "question",
+      "content": "Koks juokingiausias dalykas yra nutikęs per repeticiją ar koncerto metu?"
+    },
+    {
+      "type": "answer",
+      "content": "Turiu daugybę… Per tą patį koncertą trims vyrams suplyšo kelnės šokio metu. Kai Pijų reikėjo perrengti iš vieno kostiumo į visiškai kitą per 30 sekundžių. „Alučio puotos“ metu muzikantai ir visi šokėjai įstojome skirtingu metu. Šokant užsienyje, su „Jaunimėliu“, moteris po koncerto įdavė savo vaiką man į rankas, kad nusifotografuotų kartu. Po koncerto esu nusifotografavęs su užsieniečiu, kuris iki dabar turi mūsų foto and savo „Facebook“ cover'io."
+    },
+    {
+      "type": "question",
+      "content": "Ko labiausiai pasiilgsti, kai kurį laiką nebūni repeticijose?"
+    },
+    {
+      "type": "answer",
+      "content": "Draugų, kuriuos turiu kolektyve, nuotaikos, su kuria išeini po kiekvienos repeticijos, juokelių ar juokingų klaidų repeticijų metu, palengvėjimo jausmo, kurį pajauti sėkmingai pabaigus statyti šokį."
+    },
+    {
+      "type": "question",
+      "content": "Koks yra pats brangiausias „Jaunimėlio“ atradimas?"
+    },
+    {
+      "type": "answer",
+      "content": "Žmonės, kurie susijungia kartu kelti Jaunimėlį į aukštesnį lygį."
+    },
+    {
+      "type": "question",
+      "content": "Dabar apie tave. Koks faktas apie tave labiausiai nustebintų kitus?"
+    },
+    {
+      "type": "answer",
+      "content": "Mano veidas buvo rodomas viename iš Niujorko Times Square ekranų."
+    },
+    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/tadas-moks/gallery3.webp", "alt": "Tadas" },
+    {
+      "type": "question",
+      "content": "Kaip mėgsti leisti laisvalaikį?"
+    },
+    {
+      "type": "answer",
+      "content": "Laisvalaikį mėgstu leisti aktyviai, gamtoje arba mokantis kažką naujo, ko dar nesu išbandęs. Jei tai darau su draugais, dar smagiau."
+    },
+    {
+      "type": "question",
+      "content": "Jei galėtum vakarieniauti su bet kuriuo žmogumi pasaulyje, ką pasirinktum? Kodėl?"
+    },
+    {
+      "type": "answer",
+      "content": "Su Gordonu Ramziu arba Anthony Bourdain. Visų pirma, manau, būtų labai skani vakarienė. Antra, jų asmenybės mane žavi, manau, jog susirinkčiau daug išminties vien iš pokalbio su jais."
+    },
+    {
+      "type": "question",
+      "content": "Ar turi mėgstamą posakį ar gyvenimo moto? Koks jis?"
+    },
+    {
+      "type": "answer",
+      "content": "O kas, jeigu pavyks?"
+    },
+    {
+      "type": "question",
+      "content": "Už ką šiandien esi labiausiai dėkingas?"
+    },
+    {
+      "type": "answer",
+      "content": "Už visas galimybes tiek daug nuveikti savo gyvenime, už draugus, šeimą ir sveikatą."
+    },
+    {
+      "type": "question",
+      "content": "Jei tavo gyvenimas būtų filmas ar serialas, koks jis būtų?"
+    },
+    {
+      "type": "answer",
+      "content": "Manau, jog mano gyvenimo filmas būtų su dramatiška pradžia ir pagrindiniu veikėju, kuris yra pastoviai kažkokių jėgų saugomas."
+    }
+  ]
+}
