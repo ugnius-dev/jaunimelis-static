@@ -5,5 +5,12 @@
     "name2": "Aiste",
     "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/aiste/catalogue.webp",
     "file": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/aiste.json"
+  },
+  {
+    "slug": "tadas-moksvytis",
+    "name": "Tadas Moksvytis",
+    "name2": "Tadu",
+    "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/tadas-moks/catalogue.webp",
+    "file": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/tadas-moks.json"
   }
 ]
