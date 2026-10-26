@@ -19,7 +19,6 @@
       "type": "answer",
       "content": "Svarbu pagauti gerą nuotaiką ir pasimėgauti, tad prieš koncertą stengiuosi iššokinėti visus nervukus pagal smagią dainą."
     },
-    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/aiste/gallery1.webp", "alt": "Aistė" },
     {
       "type": "question",
       "content": "Į ką pirmiausia atkreipi dėmesį, kai žiūri kitų kolektyvų pasirodymus?"
@@ -44,6 +43,7 @@
       "type": "answer",
       "content": "„Alučio puota“. Daug legendų apipinti mūsų alučio puotos pasirodymai ir tik geriausi prisiminimai."
     },
+    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/aiste/gallery1.webp", "alt": "Aistė" },
     {
       "type": "question",
       "content": "Jei galėtum grįžti į savo pirmąją šokių dieną, ką sau pasakytum?"
@@ -54,7 +54,7 @@
     },
     {
       "type": "question",
-      "content": "Kiek laiko jau esi „Jaunimietis“?"
+      "content": "Apie „Jaunimėlį“. Kiek laiko jau esi „Jaunimietė“?"
     },
     {
       "type": "answer",
