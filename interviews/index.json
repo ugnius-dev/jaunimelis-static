@@ -12,5 +12,12 @@
     "name2": "Tadu",
     "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/tadas-moks/catalogue.webp",
     "file": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/tadas-moks.json"
+  },
+  {
+    "slug": "radvile-grigaite",
+    "name": "Radvilė Grigaitė",
+    "name2": "Radvile",
+    "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/radvile/catalogue.webp",
+    "file": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/radvile.json"
   }
 ]
