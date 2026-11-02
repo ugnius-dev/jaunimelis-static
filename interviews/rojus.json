@@ -1,0 +1,168 @@
+{
+  "name": "Rojus Urbonas",
+  "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/rojus/cover.webp",
+  "blocks": [
+    {
+      "type": "question",
+      "content": "Apie šokius. Jei visą likusį gyvenimą galėtum šokti tik vieną šokį – kurį pasirinktum? Kodėl?"
+    },
+    {
+      "type": "answer",
+      "content": "„Subatos vakare” - su kuo pradėjau su tuo ir pabaigsiu"
+    },
+    {
+      "type": "question",
+      "content": "Ar turi ritualą prieš koncertą? Jei taip, kokį?"
+    },
+    {
+      "type": "answer",
+      "content": "Būtina „papumpuot“ atsispaudimų ir gerai parėkt vieniems ant kitų su bachūrais – ypač prieš „Džigūną“ 😄"
+    },
+    {
+      "type": "question",
+      "content": "Į ką pirmiausia atkreipi dėmesį, kai žiūri kitų kolektyvų pasirodymus?"
+    },
+    {
+      "type": "answer",
+      "content": "Šokančias lietuvaites."
+    },
+    {
+      "type": "question",
+      "content": "Ką šokiai tau duoda, ko nerandi niekur kitur?"
+    },
+    {
+      "type": "answer",
+      "content": "Šis kolektyvas man suteikė tokį bendruomenės jausmą, kokio nesu patyręs niekur kitur, realiai, dėl jo ir šoku. Tuo pačiu šokiai sustiprino mano patriotizmą ir vyrišką laikyseną gyvenime."
+    },
+    {
+      "type": "question",
+      "content": "Kokia daina / šokis / kūrinys tau labiausiai asocijuojasi su „Jaunimėliu“ ir kodėl?"
+    },
+    {
+      "type": "answer",
+      "content": "Foje – „Vaikystės Stogas”, nes jokia gera kelionė su „Jaunimėliu“ neprasideda be šios dainos."
+    },
+    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/rojus/gallery1.webp", "alt": "Rojus" },
+    {
+      "type": "question",
+      "content": "Jei galėtum grįžti į savo pirmąją šokių dieną, ką sau pasakytum?"
+    },
+    {
+      "type": "answer",
+      "content": "Tavęs laukia geriausi jaunystės metai, o Vytautui dar ilgai būsi dėkingas, kad pasiūlė šokti. Pasirodo, kartais draugų tikrai verta paklausyti 😄"
+    },
+    {
+      "type": "question",
+      "content": "Dabar apie „Jaunimėlį“. Kiek laiko jau esi „Jaunimietis“?"
+    },
+    {
+      "type": "answer",
+      "content": "Priklausau kolektyvui antrus metus"
+    },
+    {
+      "type": "question",
+      "content": "Be ko neįsivaizduoji „Jaunimėlio“ repeticijų?"
+    },
+    {
+      "type": "answer",
+      "content": "Be koncertmeisterės Neringos šnabždamų patarimų."
+    },
+    {
+      "type": "question",
+      "content": "Kokia pirma mintis kyla išgirdus žodį „Jaunimėlis“?"
+    },
+    {
+      "type": "answer",
+      "content": "„O va dabar publika, važiuojam“"
+    },
+    {
+      "type": "question",
+      "content": "Kokią frazę per repeticijas girdi dažniausiai?"
+    },
+    {
+      "type": "answer",
+      "content": "„Tylos!“ – pas mus norinčių pasišnekėti niekada netrūksta 😄"
+    },
+    {
+      "type": "question",
+      "content": "Kokia „Jaunimėlio“ tradicija tau labiausiai patinka?"
+    },
+    {
+      "type": "answer",
+      "content": "Po kiekvieno koncerto kartu visiems susiburti ir linksmai praleisti laiką."
+    },
+    {
+      "type": "question",
+      "content": "Koks juokingiausias dalykas yra nutikęs per repeticiją ar koncerto metu?"
+    },
+    {
+      "type": "answer",
+      "content": "Buvo momentas, kai man ir Tadui šokant ant Gedimino pilies kalno suplyšo kelnės per tarpkojį. Niekada nebūčiau pagalvojęs, kad teks stovėti su draugu be kelnių prieš visą Vilniaus panoramą, kol jos buvo siuvamos 😄"
+    },
+    {
+      "type": "question",
+      "content": "Ko labiausiai pasiilgsti, kai kurį laiką nebūni repeticijose?"
+    },
+    {
+      "type": "answer",
+      "content": "Besijuokiančios chebros"
+    },
+    {
+      "type": "question",
+      "content": "Koks yra pats brangiausias „Jaunimėlio“ atradimas?"
+    },
+    {
+      "type": "answer",
+      "content": "Žmonės, su kuriais gali ne tik šokti, bet ir eiti per gyvenimą."
+    },
+    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/rojus/gallery2.webp", "alt": "Rojus" },
+    {
+      "type": "question",
+      "content": "Apie tave. Koks faktas apie tave labiausiai nustebintų kitus?"
+    },
+    {
+      "type": "answer",
+      "content": "Veisiu ir parduodu driežus."
+    },
+    {
+      "type": "question",
+      "content": "Kaip mėgsti leisti laisvalaikį?"
+    },
+    {
+      "type": "answer",
+      "content": "Labai mėgstu žvejoti, o jeigu negaliu, tai galvoju apie žvejybą."
+    },
+    {
+      "type": "question",
+      "content": "Jei galėtum vakarieniauti su bet kuriuo žmogumi pasaulyje, ką pasirinktum? Kodėl?"
+    },
+    {
+      "type": "answer",
+      "content": "Su Sinica – būtų įdomu prie vieno stalo pasikalbėti apie jo vertybes ir tai, kas jį patį įkvepia."
+    },
+    {
+      "type": "question",
+      "content": "Ar turi mėgstamą posakį ar gyvenimo moto? Koks jis?"
+    },
+    {
+      "type": "answer",
+      "content": "“Gerą benzopjūklą daug medžių tik pagalanda” - tinka viskam."
+    },
+    {
+      "type": "question",
+      "content": "Už ką šiandien esi labiausiai dėkingas?"
+    },
+    {
+      "type": "answer",
+      "content": "Visiems artimiems, mylimiems, bei Dievui už suteiktas galimybes ir palaikymą augti, mokintis bei kurti."
+    },
+    {
+      "type": "question",
+      "content": "Jei tavo gyvenimas būtų filmas ar serialas, koks jis būtų?"
+    },
+    {
+      "type": "answer",
+      "content": "Deja, nežiūriu filmų."
+    }
+  ]
+}
