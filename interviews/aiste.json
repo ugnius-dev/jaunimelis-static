@@ -84,6 +84,7 @@
       "type": "answer",
       "content": "LYGIUOKIT"
     },
+    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/aiste/gallery2.webp", "alt": "Aistė" },
     {
       "type": "question",
       "content": "Kokia „Jaunimėlio“ tradicija tau labiausiai patinka?"
@@ -116,7 +117,6 @@
       "type": "answer",
       "content": "Vienareikšmiškai, čia sutikti žmonės."
     },
-    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/aiste/gallery2.webp", "alt": "Aistė" },
     {
       "type": "question",
       "content": "Dabar apie tave. Koks faktas apie tave labiausiai nustebintų kitus?"
@@ -133,6 +133,7 @@
       "type": "answer",
       "content": "Prisigalvoju visokių kūrybinių veiklų - šokti, groti, dainuoti, rankdarbiai, renginiai. Bet ir geros poilsio dienos su kava rankoje neatsisakysiu."
     },
+    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/aiste/gallery3.webp", "alt": "Aistė" },
     {
       "type": "question",
       "content": "Jei galėtum vakarieniauti su bet kuriuo žmogumi pasaulyje, ką pasirinktum? Kodėl?"
