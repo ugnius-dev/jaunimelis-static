@@ -30,5 +30,13 @@
     "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/rojus/catalogue.webp",
     "file": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/rojus.json",
     "publish": "2026-11-03T05:00:00.000Z"
+  },
+  {
+    "slug": "egle-bagdonaite",
+    "name": "Eglė Bagdonaitė",
+    "name2": "Egle",
+    "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/egle-bagd/catalogue.webp",
+    "file": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/egle-bagd.json",
+    "publish": "2026-11-05T10:00:00.000Z"
   }
 ]
