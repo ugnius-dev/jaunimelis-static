@@ -10,7 +10,7 @@
   {
     "slug": "tadas-moksvytis",
     "name": "Tadas Moksvytis",
-    "name2": "Tadu",
+    "name2": "Tadu M.",
     "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/tadas-moks/catalogue.webp",
     "file": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/tadas-moks.json",
     "publish": "2026-10-27T05:00:00.000Z"
@@ -38,5 +38,21 @@
     "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/egle-bagd/catalogue.webp",
     "file": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/egle-bagd.json",
     "publish": "2026-11-05T10:00:00.000Z"
+  },
+  {
+    "slug": "emile-kesaite",
+    "name": "Emilė Kėsaitė",
+    "name2": "Emile",
+    "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/emile/catalogue.webp",
+    "file": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/emile.json",
+    "publish": "2026-11-10T13:00:00.000Z"
+  },
+  {
+    "slug": "tadas-sukevicius",
+    "name": "Tadas Šukevčius",
+    "name2": "Tadu S.",
+    "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/tadas-suke/catalogue.webp",
+    "file": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/tadas-suke.json",
+    "publish": "2026-11-12T13:00:00.000Z"
   }
 ]

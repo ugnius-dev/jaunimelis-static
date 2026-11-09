@@ -1,0 +1,169 @@
+{
+  "name": "Tadas Šukevičius",
+  "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/tadas-suke/cover.webp",
+  "blocks": [
+    {
+      "type": "question",
+      "content": "Jei visą likusį gyvenimą galėtum šokti tik vieną šokį – kurį pasirinktum? Kodėl?"
+    },
+    {
+      "type": "answer",
+      "content": "„Sėdžiu ant palangės“. Šokis yra labai išskirtinis ir turintis viską: techniškumą, fiziškumą, vaidybą, smagią dainą ir svarbiausia – meilę."
+    },
+    {
+      "type": "question",
+      "content": "Ar turi ritualą prieš koncertą? Jei taip, kokį?"
+    },
+    {
+      "type": "answer",
+      "content": "Priešingai nei konkursams, ritualo neturiu – į koncertus einu su visišku atsipalaidavimu."
+    },
+    {
+      "type": "question",
+      "content": "Į ką pirmiausia atkreipi dėmesį, kai žiūri kitų kolektyvų pasirodymus?"
+    },
+    {
+      "type": "answer",
+      "content": "Asmeniškai, šokio technika man nėra tokia svarbi kaip nuotaika, todėl tą ir pastebiu pirma. Taip pat mano akį patraukia tautiniai kostiumai."
+    },
+    {
+      "type": "question",
+      "content": "Ką šokiai tau duoda, ko nerandi niekur kitur?"
+    },
+    {
+      "type": "answer",
+      "content": "Tautinio šokio svarbos suvokimą kultūriniame kontekste."
+    },
+    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/tadas-suke/gallery1.webp", "alt": "Tadas" },
+    {
+      "type": "question",
+      "content": "Kokia daina / šokis / kūrinys tau labiausiai asocijuojasi su „Jaunimėliu“ ir kodėl?"
+    },
+    {
+      "type": "answer",
+      "content": "„Iki paryčių” nes su tiek energijos mes tikrai galėtume šokti iki paryčių."
+    },
+    {
+      "type": "question",
+      "content": "Jei galėtum grįžti į savo pirmąją šokių dieną, ką sau pasakytum?"
+    },
+    {
+      "type": "answer",
+      "content": "Nieko, nes viskas buvo super."
+    },
+    {
+      "type": "question",
+      "content": "Dabar apie „Jaunimėlį“. Kiek laiko jau esi „Jaunimietis“?"
+    },
+    {
+      "type": "answer",
+      "content": "Nuo šių mokslo metų pradžios."
+    },
+    {
+      "type": "question",
+      "content": "Be ko neįsivaizduoji „Jaunimėlio“ repeticijų?"
+    },
+    {
+      "type": "answer",
+      "content": "Be vadovytės ir koncertmeisterės."
+    },
+    {
+      "type": "question",
+      "content": "Kokia pirma mintis kyla išgirdus žodį „Jaunimėlis“?"
+    },
+    {
+      "type": "answer",
+      "content": "Bendruomenė."
+    },
+    {
+      "type": "question",
+      "content": "Kokią frazę per repeticijas girdi dažniausiai?"
+    },
+    {
+      "type": "answer",
+      "content": "„Nebeplepėk!“"
+    },
+    {
+      "type": "question",
+      "content": "Kokia „Jaunimėlio“ tradicija tau labiausiai patinka?"
+    },
+    {
+      "type": "answer",
+      "content": "Puvočių tradicijų."
+    },
+    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/tadas-suke/gallery2.webp", "alt": "Tadas" },
+    {
+      "type": "question",
+      "content": "Koks juokingiausias dalykas yra nutikęs per repeticiją ar koncerto metu?"
+    },
+    {
+      "type": "answer",
+      "content": "Kiekviena repeticija turi savų „perliukų”, todėl vieno dalyko neišskirčiau."
+    },
+    {
+      "type": "question",
+      "content": "Ko labiausiai pasiilgsti, kai kurį laiką nebūni repeticijose?"
+    },
+    {
+      "type": "answer",
+      "content": "Kolegų veidų 🙂"
+    },
+    {
+      "type": "question",
+      "content": "Koks yra pats brangiausias „Jaunimėlio” atradimas?"
+    },
+    {
+      "type": "answer",
+      "content": "Nauji draugai."
+    },
+    {
+      "type": "question",
+      "content": "Koks faktas apie tave labiausiai nustebintų kitus?"
+    },
+    {
+      "type": "answer",
+      "content": "Moku atbulinį salto + gražiai deklamuoju eilėraščius."
+    },
+    {
+      "type": "question",
+      "content": "Kaip mėgsti leisti laisvalaikį?"
+    },
+    {
+      "type": "answer",
+      "content": "Kai nešoku, dievinu sportą ir adrenaliną."
+    },
+    { "type": "image", "content": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/tadas-suke/gallery3.webp", "alt": "Tadas" },
+    {
+      "type": "question",
+      "content": "Jei galėtum vakarieniauti su bet kuriuo žmogumi pasaulyje, ką pasirinktum? Kodėl?"
+    },
+    {
+      "type": "answer",
+      "content": "Vakarienė su Jėzum."
+    },
+    {
+      "type": "question",
+      "content": "Ar turi mėgstamą posakį ar gyvenimo moto? Koks jis?"
+    },
+    {
+      "type": "answer",
+      "content": "„Lenk medį kol jaunas.“"
+    },
+    {
+      "type": "question",
+      "content": "Už ką šiandien esi labiausiai dėkingas?"
+    },
+    {
+      "type": "answer",
+      "content": "Už šiandieną."
+    },
+    {
+      "type": "question",
+      "content": "Jei tavo gyvenimas būtų filmas ar serialas, koks jis būtų?"
+    },
+    {
+      "type": "answer",
+      "content": "„Garfildas“, nes man irgi patinka lazanija."
+    }
+  ]
+}
