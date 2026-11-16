@@ -54,5 +54,13 @@
     "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/tadas-suke/catalogue.webp",
     "file": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/tadas-suke.json",
     "publish": "2026-11-12T13:00:00.000Z"
+  },
+  {
+    "slug": "erika-duchneviciute",
+    "name": "Erika Duchnevičiūtė",
+    "name2": "Erika",
+    "photo": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/photos/erika/catalogue.webp",
+    "file": "https://cdn.jsdelivr.net/gh/ugnius-dev/jaunimelis-static/interviews/erika.json",
+    "publish": "2026-11-17T13:00:00.000Z"
   }
 ]
